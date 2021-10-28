@@ -1,0 +1,64 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 62.5%;
+    font-family: Arial,sans-serif;
+}
+
+h1 {
+    color: white;
+    margin-top: 1rem;
+    margin-left: 2%;
+}
+
+header {
+    background-color: black;
+}
+
+#headers {
+    display: inline-block;
+    width: 55%;
+    height: 3rem;
+    margin-left: 8%;
+}
+
+i {
+    color: #dadada;
+    font-size: 1.2rem;
+}
+
+#nav {
+    display: inline-block;
+    width: 30%;
+}
+
+#search, #library, #connect_you {
+    padding-left: 1.5rem;
+    padding-right: 1rem;
+}
+
+input[type=submit] {
+    margin-left: 1.5rem;
+    padding: 8px 12px;
+    border-radius: 3px;
+    border: none;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    cursor: pointer;
+}
+
+a {
+    text-decoration-line: none;
+    font-size: 14px;
+    color: #dadada;
+}
+
+a:hover {
+    color: white;
+}
