@@ -62,3 +62,114 @@ a {
 a:hover {
     color: white;
 }
+
+#nav_back {
+    display: inline-block;
+    width: 100%;
+    border: 1px solid black;
+    background-color: #232323;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+#one {
+    margin-left: 9%;
+    border-bottom: 4px solid #fff;
+    padding-bottom: 0.8rem;
+}
+
+.a_back {
+    margin-left: 7rem;
+    font-weight: bold;
+}
+
+#left {
+    display: inline-block;
+    width: 56%;
+    margin-left: 9%;
+}
+
+#right {
+    display: inline-block;
+    width: 35%;
+    float: right;
+    padding-top: 3.5rem;
+    background-color: rgba(128, 128, 128, 0.04);
+}
+
+h2 {
+    font-size: 32px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+h3 {
+    font-size: 28px;
+}
+
+.video {
+    display: block;
+    width: 100%;
+    height: 340px;
+    margin-top: 2rem;
+}
+
+.img_right {
+    display: block;
+    margin-top: 2rem;
+    height: 143px;
+
+}
+
+#img_one {
+    margin-top: 2rem;
+    height: 143px;
+}
+
+#right > p {
+    font-size: 12px;
+    font-weight: bold;
+    color: #606060;
+    margin-left: 1rem;
+}
+
+#right > h3 {
+    color: #606060;
+    margin-left: 1rem;
+}
+
+.description {
+    display: inline-block;
+    float: right;
+    width: 42%;
+    margin-top: 0.5rem;
+}
+
+.descript {
+    font-size: 12px;
+    color: #9d9d9d;
+    margin-bottom: 0.5rem;
+}
+
+h4 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.foot {
+    font-size: 10px;
+    color: #9d9d9d;
+    margin-top: 0.3rem;
+}
+
+.info {
+    display: inline-block;
+    float: right;
+    width: 60%;
+}
+
+.info > h4 {
+    font-size: 16px;
+    margin-top: 0.5rem;
+}
